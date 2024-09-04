@@ -4,3 +4,6 @@
 
 ## 🔥 Minhas Contribuições
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dangil1dev&theme=radical)
+
+## 🏆 Troféus do GitHub
+![trophy](https://github-profile-trophy.vercel.app/?username=Dangil1dev&theme=radical)
